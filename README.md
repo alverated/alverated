@@ -1,11 +1,5 @@
 🌟 Hello, World! I'm Alver. 🌟
 
-🔭 Currently Working On:
-Building innovative web applications and APIs that solve real-world problems. Currently diving deep into Ruby on Rails and crafting data-driven experiences.
-
-🌱 Learning:
-Exploring the depths of TypeScript and enhancing my skills in cloud computing. Always on the lookout for the latest trends in web technologies!
-
 💻 Tech Stack:
 
 Languages: PHP, JavaScript, TypeScript, Ruby
